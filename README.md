@@ -1,4 +1,4 @@
-# Atelier sur l'intégration continue
+# Atelier sur l'intégration continue 🌻
 
 > This project contains all the documentation needed for a basic workshop on CI
 implementation on a project versionned with Git. As this workshop is created for
